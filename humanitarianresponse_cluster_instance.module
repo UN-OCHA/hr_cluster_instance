@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Humanitarianresponse Cluster instance feature.
+ */
+
+include_once 'humanitarianresponse_cluster_instance.features.inc';
